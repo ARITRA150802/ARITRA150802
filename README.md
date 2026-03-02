@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Aritra Datta 👋
 
-<!--
-**ARITRA150802/ARITRA150802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | AI & Automation Enthusiast  
+🏢 Assistant Executive – Application Development @ Shriram Pistons & Rings Ltd.  
+🎓 B.Tech CSE – KIIT University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Full-Stack Developer specializing in building scalable enterprise web applications and AI-driven automation systems.
+
+Currently working at Shriram Pistons & Rings Ltd., where I:
+
+- Design and develop internal enterprise applications using the MERN stack
+- Build secure RESTful APIs and manage database architecture
+- Integrate AI tools to automate workflows and optimize business processes
+- Translate business requirements into scalable technical solutions
+- Focus on writing clean, maintainable, production-ready code
+
+I aim to build high-impact, scalable systems that solve real-world problems.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+React.js, HTML5, CSS3, JavaScript  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB  
+
+**Other Skills:**  
+REST APIs, AI Integration, Automation Workflows, Git, GitHub  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Enterprise Workflow Automation System**  
+Full-stack MERN application to automate internal business workflows.
+
+🔹 **AI-Based Process Optimization Tool**  
+Integrated AI modules to improve decision-making and operational efficiency.
+
+🔹 **Task Management Application**  
+Role-based task manager with secure authentication and API integration.
+
+(Replace these with your best real projects)
+
+---
+
+## 📈 GitHub Stats
+
+![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/aritra-datta-ad150802
+- Email: aritradatta2022@gmail.com
+
+---
+
+⭐ Always open to collaboration, networking, and full-stack opportunities.
