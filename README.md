@@ -25,15 +25,13 @@ I aim to build high-impact, scalable systems that solve real-world problems.
 ## 🛠 Tech Stack
 
 **Frontend:**  
-React.js! ![React](https://img.shields.io/badge/React-blue), HTML5, CSS3, JavaScript  
+React.js!, HTML5, CSS3, JavaScript  
 
 **Backend:**  
-Node.js ![Node](https://img.shields.io/badge/Node.js-green), Express.js [Express](https://img.shields.io/badge/Express-black)
+Node.js, Express.js
 
 **Database:**  
 MongoDB
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-
 
 **Other Skills:**  
 REST APIs, AI Integration, Automation Workflows, Git, GitHub  
