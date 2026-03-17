@@ -25,13 +25,15 @@ I aim to build high-impact, scalable systems that solve real-world problems.
 ## 🛠 Tech Stack
 
 **Frontend:**  
-React.js, HTML5, CSS3, JavaScript  
+React.js! ![React](https://img.shields.io/badge/React-blue), HTML5, CSS3, JavaScript  
 
 **Backend:**  
-Node.js, Express.js  
+Node.js ![Node](https://img.shields.io/badge/Node.js-green), Express.js [Express](https://img.shields.io/badge/Express-black)
 
 **Database:**  
-MongoDB  
+MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
 
 **Other Skills:**  
 REST APIs, AI Integration, Automation Workflows, Git, GitHub  
@@ -49,14 +51,12 @@ Integrated AI modules to improve decision-making and operational efficiency.
 🔹 **Task Management Application**  
 Role-based task manager with secure authentication and API integration.
 
-(Replace these with your best real projects)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
+https://github-readme-stats.vercel.app/api?username=ARITRA150802&show_icons=true&theme=radical
 ---
 
 ## 📫 Connect With Me
